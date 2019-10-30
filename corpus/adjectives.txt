@@ -261,7 +261,6 @@ ample
 angry
 antic
 ashen
-asian
 attic
 atune
 audio
@@ -281,7 +280,6 @@ bawdy
 beady
 beefy
 beige
-black
 bland
 blank
 bleak
@@ -337,7 +335,6 @@ drunk
 dummy
 dusky
 dusty
-dutch
 eager
 eared
 early
@@ -416,7 +413,6 @@ inert
 inner
 ionic
 irate
-irish
 ivory
 jazzy
 jerky
@@ -520,7 +516,6 @@ privy
 prone
 proud
 puffy
-queer
 quick
 quiet
 rabid
@@ -647,7 +642,6 @@ warty
 waxen
 weary
 weird
-welsh
 white
 whole
 wider
@@ -787,7 +781,6 @@ cubist
 custom
 cutest
 dainty
-danish
 dapper
 darker
 deadly
@@ -823,7 +816,6 @@ edible
 effete
 eldest
 entire
-ethnic
 exempt
 exotic
 expert
@@ -922,7 +914,6 @@ humane
 humble
 hungry
 inborn
-indian
 indigo
 indoor
 infant
@@ -937,7 +928,6 @@ inward
 ironic
 jagged
 jaunty
-jewish
 jocose
 jocund
 jovial
@@ -948,7 +938,6 @@ jutish
 kinder
 kindly
 knotty
-korean
 kosher
 labile
 larger
@@ -1135,7 +1124,6 @@ single
 skiddy
 skimpy
 skinny
-slavic
 sleepy
 slight
 sloppy
@@ -1195,10 +1183,8 @@ sweaty
 swingy
 swivel
 sylvan
-syrian
 syrupy
 taller
-taoist
 tawdry
 teensy
 tender
@@ -1297,7 +1283,6 @@ advance
 adverse
 aerobic
 affable
-african
 allegro
 amateur
 amatory
@@ -1310,7 +1295,6 @@ angular
 animate
 anionic
 antique
-arabian
 arcaded
 archaic
 arclike
@@ -1472,7 +1456,6 @@ elegiac
 elusive
 eminent
 emptier
-english
 erratic
 erudite
 eternal
@@ -1562,7 +1545,6 @@ haughty
 healthy
 heathen
 heavier
-hebraic
 helluva
 helpful
 heretic
@@ -1592,10 +1574,6 @@ intimal
 invalid
 inverse
 irksome
-islamic
-israeli
-italian
-ithacan
 jeweled
 jittery
 jocular
@@ -1605,7 +1583,6 @@ kindest
 kinetic
 knowing
 languid
-laotian
 largest
 lasting
 lateral
@@ -1655,7 +1632,6 @@ medical
 meekest
 melodic
 melting
-mexican
 miasmal
 migrant
 mimetic
@@ -1679,7 +1655,6 @@ naughty
 nearest
 neatest
 nebular
-negroid
 neutral
 newborn
 nighted
@@ -1799,13 +1774,11 @@ routine
 rubbery
 runaway
 rundown
-russian
 sainted
 salable
 salient
 satiric
 scarlet
-scotian
 scrawny
 secular
 seeming
@@ -1822,7 +1795,6 @@ shapely
 sharper
 shivery
 shorter
-siamese
 sickish
 silvery
 similar
@@ -1984,7 +1956,6 @@ womanly
 worldly
 wornout
 wouldbe
-yiddish
 younger
 aberrant
 abnormal
@@ -2007,14 +1978,11 @@ affluent
 agrarian
 airborne
 alarmist
-albanian
-algerian
 alkaline
 allergic
 almighty
 alveolar
 amenable
-american
 amicable
 ammoniac
 analytic
@@ -2027,20 +1995,16 @@ anorthic
 anterior
 apparent
 arboreal
-armenian
 aromatic
 arrogant
 arterial
 artistic
-assyrian
 athenian
 athletic
 atlantic
 atrophic
 atypical
 augustan
-austrian
-autistic
 autumnal
 backward
 baffling
@@ -2071,7 +2035,6 @@ broadest
 brocaded
 brownish
 buccolic
-buddhist
 callable
 canadian
 canonist
@@ -2079,14 +2042,12 @@ capellan
 cardinal
 carefree
 careworn
-catholic
 cellular
 cerebral
 cerulean
 charming
 cheerful
 chemical
-cherokee
 childish
 chillier
 chockful
@@ -2190,8 +2151,6 @@ esthetic
 ethereal
 etruscan
 euphoric
-eurasian
-european
 eventual
 everyday
 exciting
@@ -2339,7 +2298,6 @@ isotonic
 isotopic
 jacobean
 jacobite
-japanese
 jewelled
 jubilant
 judicial
@@ -2437,7 +2395,6 @@ operatic
 opposite
 optional
 ordinary
-oriental
 original
 ornraier
 orthodox
@@ -2622,7 +2579,6 @@ stubborn
 stunning
 suburban
 succinct
-sudanese
 suhthuhn
 suitable
 sunbaked
@@ -2845,14 +2801,12 @@ calvinist
 cartesian
 cassocked
 catalytic
-caucasian
 causative
 ceartaine
 celestial
 censorial
 chainlike
 childlike
-christian
 chromatic
 cinematic
 classical
@@ -2861,7 +2815,6 @@ climactic
 cognitive
 cognizant
 colloidal
-colombian
 combatant
 commonest
 communist
@@ -2871,10 +2824,8 @@ concerted
 conducive
 confident
 confluent
-confucian
 confusing
 congenial
-congolese
 congruent
 consonant
 continual
@@ -3157,7 +3108,6 @@ overblown
 overeager
 overnight
 oversized
-pakistani
 palatable
 palladian
 panoramic
@@ -3814,13 +3764,11 @@ persistent
 persuasive
 petrarchan
 phenomenal
-philippine
 phonologic
 photogenic
 pokerfaced
 polynomial
 pontifical
-portuguese
 possessive
 predictive
 preferable
@@ -4029,7 +3977,6 @@ unwrinkled
 unyielding
 upstanding
 varitinted
-venezuelan
 vernacular
 veterinary
 vietnamese
@@ -4157,8 +4104,6 @@ enforceable
 enthralling
 epicyclical
 equidistant
-europeanish
-evangelical
 evaporative
 everlasting
 exceptional
@@ -4719,7 +4664,6 @@ researchable
 rooseveltian
 satisfactory
 scandalizing
-scandinavian
 scarecrowish
 selfeffacing
 semicircular
