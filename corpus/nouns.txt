@@ -1643,7 +1643,6 @@ fella
 felon
 fence
 ferry
-fever
 fiber
 field
 fiend
@@ -2612,7 +2611,6 @@ bishop
 bisque
 blazer
 blight
-blonde
 blouse
 blower
 blowup
@@ -5065,7 +5063,6 @@ recital
 recluse
 recruit
 redcoat
-redhead
 redneck
 reducer
 redwood
@@ -7668,7 +7665,6 @@ imitation
 immediacy
 immensity
 immersion
-immigrant
 imminence
 immodesty
 implement
@@ -8977,7 +8973,6 @@ motivation
 mouthpiece
 multistage
 musicality
-mutilation
 myocardium
 nationhood
 naturalism

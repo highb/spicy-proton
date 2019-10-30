@@ -315,11 +315,9 @@ comic
 corny
 crash
 crazy
-cream
 crisp
 crude
 cruel
-cuban
 cubic
 curly
 daily
@@ -874,7 +872,6 @@ garish
 gauche
 genial
 gentle
-german
 gifted
 glassy
 global
@@ -1322,7 +1319,6 @@ bedfast
 belated
 belgian
 beloved
-bengali
 bestial
 bifocal
 biggest
@@ -1348,7 +1344,6 @@ bugeyed
 builtin
 bullish
 buoyant
-burmese
 busiest
 buttery
 byronic
@@ -1820,7 +1815,6 @@ songful
 sopping
 soulful
 sounder
-spanish
 spatial
 special
 spidery
@@ -1849,7 +1843,6 @@ supreme
 surface
 suspect
 swarthy
-swedish
 sweeter
 swollen
 tactful
@@ -2236,7 +2229,6 @@ handsome
 happiest
 harmonic
 haunting
-hawaiian
 heavenly
 heaviest
 hegelian
@@ -2427,7 +2419,6 @@ peculiar
 pedantic
 periodic
 personal
-peruvian
 perverse
 petulant
 phonemic
@@ -2709,7 +2700,6 @@ wrongful
 youngest
 youngish
 youthful
-yugoslav
 zodiacal
 abdominal
 abhorrent
@@ -2726,7 +2716,6 @@ aforesaid
 aggregate
 agonizing
 agreeable
-alcoholic
 algebraic
 allegoric
 allocable
@@ -2966,7 +2955,6 @@ homicidal
 honorable
 horselike
 hoydenish
-hungarian
 hunkerish
 hydraulic
 hyperemic
@@ -3979,7 +3967,6 @@ upstanding
 varitinted
 vernacular
 veterinary
-vietnamese
 vindictive
 vocational
 volumetric
