@@ -525,7 +525,6 @@ ready
 reedy
 regal
 renal
-rican
 right
 rigid
 risky
@@ -1037,7 +1036,6 @@ placid
 planar
 pliant
 poetic
-polish
 polite
 poorer
 popish
@@ -1055,7 +1053,6 @@ public
 purest
 purple
 quaint
-racial
 radial
 ragged
 rakish
@@ -1336,7 +1333,6 @@ breathy
 briefer
 brimful
 brisker
-british
 brittle
 broader
 bucolic
@@ -1478,7 +1474,6 @@ fevered
 fictive
 figural
 finicky
-finnish
 fittest
 fitting
 flemish
@@ -1638,7 +1633,6 @@ moneyed
 monkish
 monthly
 moonlit
-moorish
 movable
 mundane
 musical
@@ -1678,7 +1672,6 @@ orbital
 orderly
 organic
 osmotic
-ottoman
 outback
 outdoor
 outside
@@ -1702,7 +1695,6 @@ pensive
 peppery
 perfect
 permian
-persian
 pimpled
 pincian
 piquant
@@ -1800,7 +1792,6 @@ sizable
 skilful
 skilled
 slatted
-slavish
 slender
 slimmer
 slivery
@@ -1862,7 +1853,6 @@ thinner
 thirsty
 thrifty
 throaty
-tibetan
 tiniest
 titanic
 titular
@@ -1873,7 +1863,6 @@ tougher
 trivial
 tubular
 tuneful
-turkish
 twofold
 typical
 unaided
@@ -2502,7 +2491,6 @@ sanitary
 sardonic
 sauterne
 scornful
-scottish
 scraggly
 scratchy
 screechy
@@ -2519,9 +2507,7 @@ shopworn
 shortest
 shrewish
 shuddery
-siberian
 sibilant
-sicilian
 sidelong
 silicate
 silliest
@@ -2615,7 +2601,6 @@ trigonal
 tropical
 trusting
 truthful
-tunisian
 tuxedoed
 ultimate
 unabated
@@ -2775,7 +2760,6 @@ bombproof
 botanical
 botulinal
 brahmsian
-brazilian
 brightest
 brilliant
 britannic
@@ -2858,7 +2842,6 @@ dissident
 divergent
 divisible
 doctrinal
-dominican
 downright
 dreamlike
 duplicate
@@ -3074,7 +3057,6 @@ normative
 northeast
 northerly
 northwest
-norwegian
 nostalgic
 numerical
 nutritive
@@ -3277,7 +3259,6 @@ trichrome
 truculent
 turbulent
 turquoise
-ukrainian
 unabashed
 unadorned
 unalloyed
@@ -3422,7 +3403,6 @@ astringent
 asymmetric
 asymptotic
 attractive
-australian
 autocratic
 automotive
 babylonian
@@ -3498,7 +3478,6 @@ definitive
 deliberate
 delightful
 delinquent
-democratic
 dependable
 deplorable
 depressing
@@ -3623,7 +3602,6 @@ indicative
 indiscreet
 indistinct
 individual
-indonesian
 industrial
 ineligible
 inevitable
@@ -3790,7 +3768,6 @@ remarkable
 remorseful
 repetitive
 repressive
-republican
 resounding
 respectful
 respective
@@ -4181,7 +4158,6 @@ irrevocable
 justifiable
 kinesthetic
 legislative
-libertarian
 lightweight
 lilliputian
 luminescent
@@ -4621,14 +4597,12 @@ paramagnetic
 paramilitary
 pathological
 periphrastic
-persianesque
 philological
 photographic
 planoconcave
 postgraduate
 preferential
 prepubescent
-presbyterian
 prescriptive
 presidential
 professional
