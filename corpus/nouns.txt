@@ -3190,7 +3190,6 @@ making
 malady
 malice
 mammal
-maniac
 manila
 manner
 mantel
@@ -4645,7 +4644,6 @@ integer
 interim
 interne
 invader
-invalid
 inverse
 iocsixf
 iocsixg
@@ -8146,7 +8144,6 @@ sidelight
 signaling
 signature
 signboard
-simpleton
 sincerity
 situation
 slanderer
@@ -9097,7 +9094,6 @@ provenance
 providence
 psychiatry
 psychology
-psychopath
 psychopomp
 publishing
 punishment
@@ -9902,7 +9898,6 @@ restitution
 restoration
 restriction
 retaliation
-retardation
 retribution
 retrovision
 revaluation
@@ -10279,7 +10274,6 @@ nondefeatist
 nonogenarian
 noradrenalin
 notification
-nymphomaniac
 obliteration
 oceanography
 oneupmanship
@@ -10637,7 +10631,6 @@ reverberation
 reversibility
 revolutionary
 romanticizing
-schizophrenic
 sedimentation
 sequestration
 socialization

@@ -312,7 +312,6 @@ cocky
 comic
 corny
 crash
-crazy
 crisp
 crude
 cruel
@@ -913,7 +912,6 @@ infant
 infirm
 inland
 innate
-insane
 inside
 intact
 intent
@@ -1589,7 +1587,6 @@ lovable
 lowdown
 luckier
 lumpish
-lunatic
 lustful
 lyrical
 macabre
@@ -2305,7 +2302,6 @@ lutheran
 magnetic
 majestic
 malposed
-maniacal
 manifest
 manifold
 mannered
@@ -3126,7 +3122,6 @@ prostrate
 protozoan
 proximate
 psychical
-psychotic
 ptolemaic
 pubescent
 pulmonary
@@ -4822,7 +4817,6 @@ reimburseable
 reprehensible
 retrogressive
 revolutionary
-schizophrenic
 schoolgirlish
 seismological
 semiautomatic
