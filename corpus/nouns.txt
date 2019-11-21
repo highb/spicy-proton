@@ -4277,7 +4277,6 @@ crewcut
 crewmen
 cricket
 crimson
-cripple
 critter
 crowing
 crudity

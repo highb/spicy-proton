@@ -5483,7 +5483,6 @@ credited
 creeping
 cremated
 cringing
-crippled
 crooning
 cropping
 crossing
@@ -7191,7 +7190,6 @@ corroding
 corrupted
 counseled
 countered
-crippling
 criticize
 crouching
 crucified
