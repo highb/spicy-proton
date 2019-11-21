@@ -1891,7 +1891,6 @@ upriver
 urinary
 useable
 utopian
-vagrant
 vaguest
 valiant
 varying

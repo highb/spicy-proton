@@ -3762,7 +3762,6 @@ enlargd
 enlarge
 enlists
 enraged
-enslave
 ensuing
 ensures
 entails
@@ -5697,7 +5696,6 @@ enmeshed
 enquired
 enriched
 enrolled
-enslaved
 ensuring
 entering
 enticing
